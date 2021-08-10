@@ -4,7 +4,7 @@
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 /// literal translation needed
-"common_minute" = "min";
+"common_minute" = "мин";
 
 /// the word HIGH, in capitals
 "common_high" = "HIGH";
@@ -13,7 +13,7 @@
 "common_low" = "LOW";
 
 /// literal translation needed
-"common_minutes" = "mins";
+"common_minutes" = "минуты";
 
 /// mmol/l
 "common_mmol" = "mmol/l";
@@ -22,4 +22,4 @@
 "common_mgdl" = "mg/dl";
 
 /// where it say how old the reading is, 'x minutes ago', literaly translation of 'ago'
-"ago" = "ago";
+"ago" = "назад";
